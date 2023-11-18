@@ -4,7 +4,7 @@
 
 热爱编程、热爱技术。喜欢参与一些开源项目的讨论。
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ArvinRoad.ArvinRoad)
+![](https://visitor-badge.glitch.me/badge?page_id=ArvinRoad.ArvinRoad)
 [<img alt="github" src="https://img.shields.io/badge/github-thangchung-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/ArvinRoad)
 
 ### ⚡ Favorite languages and tools
