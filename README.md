@@ -16,7 +16,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArvinRoad&show_icons=true&count_private=true&theme=algolia" alt="thangchung" />
 
-📊 **Weekly development breakdown**
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
