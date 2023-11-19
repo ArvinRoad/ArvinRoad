@@ -18,4 +18,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 12 November 2023 - To: 19 November 2023
+
+C#              1 hr 33 mins    █████████████████░░░░░░░░   68.55 %
+C++             21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Objective-C     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+C               10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Solution File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
