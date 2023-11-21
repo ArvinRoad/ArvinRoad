@@ -5,7 +5,7 @@
 热爱编程、热爱技术。喜欢参与一些开源项目的讨论。
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ArvinRoad.ArvinRoad)
-[<img alt="github" src="https://img.shields.io/badge/github-thangchung-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/ArvinRoad)
+[<img alt="github" src="https://img.shields.io/badge/github-ArvinRoad-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/ArvinRoad)
 
 ### ⚡ Favorite languages and tools
 ![GitHub 账户常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ArvinRoad&layout=compact&theme=tokyonight)
@@ -14,7 +14,7 @@
 
 # :octocat: GitHub contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArvinRoad&show_icons=true&count_private=true&theme=algolia" alt="thangchung" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArvinRoad&show_icons=true&count_private=true&theme=algolia" alt="ArvinRoad" />
 
 <!--START_SECTION:waka-->
 
