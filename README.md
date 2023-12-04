@@ -19,9 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-No activity tracked
+C++           1 hr 53 mins    ████████████▓░░░░░░░░░░░░   50.07 %
+C             1 hr 12 mins    ████████░░░░░░░░░░░░░░░░░   32.08 %
+CMake         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+C#            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Objective-C   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
