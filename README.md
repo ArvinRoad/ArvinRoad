@@ -19,9 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-Protocol Buffer   10 mins         █████████████████████████   100.00 %
+C#                27 mins         ████████████▒░░░░░░░░░░░░   49.97 %
+Other             11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+Protocol Buffer   10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Binary            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+XML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
