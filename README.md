@@ -19,12 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-Rust         9 mins          █████████████████░░░░░░░░   68.44 %
-C            3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C            3 mins          █████████████████████▒░░░   84.78 %
+Git Config   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
