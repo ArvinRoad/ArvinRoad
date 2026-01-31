@@ -19,9 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2026 - To: 29 January 2026
+From: 23 January 2026 - To: 30 January 2026
 
-No activity tracked
+HTML   22 mins         ██████████████████▒░░░░░░   73.34 %
+C      6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+C++    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 ```
 
 <!--END_SECTION:waka-->
