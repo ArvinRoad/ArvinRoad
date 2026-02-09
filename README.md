@@ -19,13 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
-C++              2 mins          █████████▒░░░░░░░░░░░░░░░   36.87 %
-C/C              2 mins          ████████░░░░░░░░░░░░░░░░░   32.48 %
-HTML             1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-IDEA_MODULE      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-C#               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
